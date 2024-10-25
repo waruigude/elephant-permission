@@ -21,3 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "elephant-permission"
 include(":app")
+include(":epermission")
